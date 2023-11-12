@@ -1,2 +1,2 @@
 # Automaton
-Trabalho final da disciplina de Linguagens Formais e Autômatos. Implementação de um autômato em Python.
+Implementação de algoritmos para lidar com autômatos em Python.
