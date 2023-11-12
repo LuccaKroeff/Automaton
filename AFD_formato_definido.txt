@@ -1,0 +1,13 @@
+GELADEIRA
+S: q0,q1,q2
+A: a,f,s,r,c
+i: q0
+F: q0,q2
+
+(q0,s,q0)
+(q0,a,q1)
+(q1,c,q1)
+(q1,r,q1)
+(q1,f,q2)
+(q2,s,q2)
+(q2,a,q1)
